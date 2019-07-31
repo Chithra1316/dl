@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>06_image.005010.jpg</filename>
+	<path>/home/chithra/temp/passleft/images/06_image.005010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1628</width>
+		<height>1236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>passleft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>383</ymin>
+			<xmax>140</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>01_image.004111.jpg</filename>
+	<path>/home/chithra/temp/oneway/images/01_image.004111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1628</width>
+		<height>1236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oneway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1222</xmin>
+			<ymin>144</ymin>
+			<xmax>1332</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>
