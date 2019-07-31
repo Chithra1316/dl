@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>roadnarrow1</folder>
+	<filename>01_image.001797.jpg</filename>
+	<path>/home/quest/roadnarrow1/01_image.001797.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1628</width>
+		<height>1236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roadnarrow1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1381</xmin>
+			<ymin>397</ymin>
+			<xmax>1423</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>
